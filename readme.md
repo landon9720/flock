@@ -6,33 +6,33 @@ This is a Scala/SBT wrapper around my original Java [project](http://code.google
 
 Clone this git repo.
 
-``` bash
+```
 sbt run
 ```
 
-## tour
+## a tour
 
-blue1.png
+![image](https://raw.github.com/landon9720/flock/master/screens/blue1.png)
 
-Blue boids are the  grazers in this world. They travel together, moving slow. They feed on … well, I am not sure. The hungrier they get, the slower they get.
+Blue boids are the  grazers in this world. They travel together, moving slow. They feed on nothing, which is why they eventually die.
 
-blue2.png
+![image](https://raw.github.com/landon9720/flock/master/screens/blue2.png)
 
-This poor group is looking very hungry, indeed.
+This poor group is looking very hungry, indeed. But starvation is not the only way these poor fellows die.
 
-orange1.png
+![image](https://raw.github.com/landon9720/flock/master/screens/orange1.png)
 
 Here we meet the orange boids. As you can see, they are terrifying hunters.
 
-orange2.png
+![image](https://raw.github.com/landon9720/flock/master/screens/orange2.png)
 
 Here we see another grizzly scene. Notice the rotting bodies? Those are food.
 
-green.png
+![image](https://raw.github.com/landon9720/flock/master/screens/green.png)
 
 The green boids. They are the scavengers. The flies. They buzz and swarm. And keep me up at night.
 
-yellow.png
+![image](https://raw.github.com/landon9720/flock/master/screens/yellow.png)
 
 Now meet the loan hunter: the yellow boid. He (or she) is the top predator of this world.
 
