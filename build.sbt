@@ -1,4 +1,4 @@
-name := "processing-scala-sbt"
+name := "flock"
 
 version := "1.0"
 

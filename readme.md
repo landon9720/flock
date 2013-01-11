@@ -1,12 +1,23 @@
-# processing-scala-sbt
+## a boot
 
-This is a template project for developing [Processing](http://processing.org) programs in Scala. Includes:
+This is a Scala/SBT wrapper around my origional Java [project](http://code.google.com/p/kuhn/). One day I may port it to pure Scala (a way better language for these kinds of problems).
 
-* Processing core library and source
-* SBT project and IDEA project
+## screenshots
 
-Everything needed to get up and running with Processing and Scala quickly! To automatically compile and run after each code change:
+none yet
 
-    sbt ~run
+## getting started
 
-The next compile/run cycle will automatically start when the previous process ends and the you save a code change.
+Clone this git repo.
+
+``` bash
+sbt run
+```
+
+## credits
+
+kuhn.flock.Flock is based on the Processing example at
+[http://www.processing.org/learning/topics/flocking.html].
+
+The Processing example is an implementation of the original
+algorithm by Craig Reynold.
