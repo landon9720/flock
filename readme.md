@@ -12,7 +12,29 @@ sbt run
 
 ## tour
 
-not yet
+blue1.png
+
+Blue boids are the  grazers in this world. They travel together, moving slow. They feed on … well, I am not sure. The hungrier they get, the slower they get.
+
+blue2.png
+
+This poor group is looking very hungry, indeed.
+
+orange1.png
+
+Here we meet the orange boids. As you can see, they are terrifying hunters.
+
+orange2.png
+
+Here we see another grizzly scene. Notice the rotting bodies? Those are food.
+
+green.png
+
+The green boids. They are the scavengers. The flies. They buzz and swarm. And keep me up at night.
+
+yellow.png
+
+Now meet the loan hunter: the yellow boid. He (or she) is the top predator of this world.
 
 ## credits
 
