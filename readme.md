@@ -1,8 +1,8 @@
-## a boot
-
 ![image](https://raw.github.com/landon9720/flock/master/screens/screenshot.png)
 
-This is a Scala/SBT wrapper around my origional Java [project](http://code.google.com/p/kuhn/). One day I may port it to pure Scala (a way better language for these kinds of problems).
+## a boot
+
+This is a Scala/SBT wrapper around my original Java [project](http://code.google.com/p/kuhn/). One day I may port it to pure Scala (a way better language for these kinds of problems) (or better yet, ProcessingJS!).
 
 Clone this git repo.
 
