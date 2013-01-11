@@ -18,7 +18,7 @@ Blue boids are the  grazers in this world. They travel together, moving slow. Th
 
 ![image](https://raw.github.com/landon9720/flock/master/screens/blue2.png)
 
-This poor group is looking very hungry, indeed. But starvation is not the only way these poor fellows die.
+This poor group is looking very hungry, indeed. But starvation is not the only way these poor fellows croak.
 
 ![image](https://raw.github.com/landon9720/flock/master/screens/orange1.png)
 
